@@ -1,0 +1,18 @@
+body {
+  background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80)
+    no-repeat center fixed;
+  background-size: cover;
+  color: whitesmoke;
+  font-family: 'Lato';
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5rem;
+}
+p{
+    letter-spacing: 1px;
+}
+.top-buffer{
+    margin: 18%;
+}
